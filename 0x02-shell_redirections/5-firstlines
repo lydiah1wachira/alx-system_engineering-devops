@@ -1,2 +1,2 @@
-#!/bin/alx
-head -10 etc/passwd
+#!/bin/bash
+echo head -n 10 /etc/passwd
